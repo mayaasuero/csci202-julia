@@ -1,2 +1,4 @@
 # csci202-julia
-Sample Julia programs
+Repository of Julia programs for CSCI202.
+
+List of implemented programs: (TBA)
