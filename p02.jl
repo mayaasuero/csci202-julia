@@ -1,6 +1,6 @@
 # Function to calculate GCD using Euclidean Algorithm
 function gcd(x, y)
-    while y ≠ 0
+    while y != 0
         x, y = y, x % y  # Update x to y and y to the remainder of x divided by y
     end
     return abs(x)  # Return the absolute value to handle negative inputs

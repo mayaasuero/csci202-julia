@@ -1,6 +1,3 @@
-# sample program
-# fraction operations
-# Import necessary libraries
 # Function to estimate π
 function estimate_pi(num_points)
     inside_circle = 0
@@ -19,4 +16,4 @@ end
 # Run the simulation
 num_points = 10000000
 pi_estimate = estimate_pi(num_points)
-println("Estimated value of pi using $num_points points: $π_estimate")
+println("Estimated value of pi using $num_points points: $pi_estimate")

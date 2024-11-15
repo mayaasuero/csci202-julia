@@ -23,7 +23,8 @@ function solve_quadratic(a, b, c)
 end
 
 # Test the function
-a, b, c = 1, -3, 2  # Coefficients of the quadratic equation
+# a, b, c = 1, 4, 5  # Coefficients of the quadratic equation for complex numbers
+a, b, c = 1, -3, 2
 result = solve_quadratic(a, b, c)
 println("The roots of the equation $a*x^2 + $b*x + $c = 0 are:")
 println(result)
