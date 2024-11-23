@@ -1,2 +1,2 @@
-# csci202-julia
-Repository of basic Julia programs for CSCI202.
+# CSCI 202: Julia Programming Language
+Repository of basic Julia programs for CSCI 202.
